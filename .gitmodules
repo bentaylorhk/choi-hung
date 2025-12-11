@@ -1,0 +1,15 @@
+[submodule "choi-hung.nvim"]
+	path = choi-hung.vim
+	url = git@github.com:bentaylorhk/choi-hung.nvim.git
+[submodule "choi-hung-vscode"]
+	path = choi-hung-vscode
+	url = git@github.com:bentaylorhk/choi-hung-vscode
+[submodule "scientifica"]
+	path = scientifica
+	url = https://github.com/oppiliappan/scientifica
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:bentaylorhk/choi-hung.nvim.git
+[submodule "vscode"]
+	path = vscode
+	url = git@github.com:bentaylorhk/choi-hung-vscode.git

@@ -1,0 +1,42 @@
+/*
+ * Benjamin Michael Taylor (bentaylorhk)
+ * 2025
+ */
+
+@font-face {
+    font-family: 'scientifica';
+    src: local('scientifica'), url('scientifica.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+  font-family: 'scientifica', monospace !important;
+
+  font-size: 17px !important;
+  font-weight: 400 !important;
+
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  font-smooth: never !important;
+}
+
+* {
+  border-radius: 0 !important;
+}
+
+img {
+  border: 2px solid #ebdbb2;
+  border-radius: 0;
+  box-sizing: border-box;
+}
+
+/* Adjust the color of song titles */
+/*.main-trackList-trackName {
+    color: #3c3836;
+}*/
+
+/* Modify the background color of the sidebar */
+/*.Root__nav-bar {
+    background-color: #f2e5bc;
+}*/
